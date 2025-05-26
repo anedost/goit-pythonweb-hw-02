@@ -1,14 +1,18 @@
-# ДЗ Тема: Основи технології  Docker
-
-Створіть віртуальне оточення то встановіть необхідні бібліотеки
+Before run -> install
 
 ```bash
 pip install -r requirements.txt
 ```
-
-Запуск:
-
-```bash 
-python main.py
+or
+```bash
+pip3 install -r requirements.txt
 ```
 
+Run:
+```bash
+python main.py
+```
+or
+```bash
+python3 main.py
+```
